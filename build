@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="helloworld" default="hello" basedir="">
+	<target name="hello">
+		<copy file="C:\Users\net\Desktop\helloworld\src\helloworld\hello.java" tofile="build/test.txt" />
+	</target>
+</project>
